@@ -1,7 +1,29 @@
-- name: Commit and Push if changed
-  run: |
-    git config --global user.name "github-actions"
-    git config --global user.email "github-actions@github.com"
-    git add README.md
-    git commit -m "Updated README with GitHub Stats" || echo "No changes to commit"
-    git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/ahmed-on391/ahmed-on391.git
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */6 * * *'  # يعمل كل 6 ساعات
+  workflow_dispatch:       # يسمح بالتشغيل اليدوي
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          echo "Last update: $(date)" > README.md
+
+      - name: Commit and Push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Updated README with GitHub Stats" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/ahmed-on391/ahmed-on391.git

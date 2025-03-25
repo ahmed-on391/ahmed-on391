@@ -1,20 +1,21 @@
 <h1 align="center">👋 أهلاً بيك، أنا أحمد إدريس</h1>  
-<h3 align="center">👨‍💻 مطور Back-End متخصص في Laravel وPHP</h3>  
-
- 
+<h3 align="center">👨‍💻 مطور Back-End متخصص في Laravel و PHP</h3>  
 
 ---
 
 ## 👨‍💻 **من أنا؟**  
 - 🏠 **الاسم:** أحمد إدريس  
-- 💼 **المهنة:** مطور **Back-End** متخصص في Laravel وPHP  
+- 💼 **المهنة:** مطور **Back-End** متخصص في Laravel و PHP  
 - 🚀 **الشغف:** بناء تطبيقات ويب قوية وعالية الأداء  
-- 🌱 **أتعلّم حالياً:** Problem Solving, DevOps, Testing  
+- 🌱 **أتعلم حالياً:** Problem Solving, DevOps, Testing  
 - 💬 **اسألني عن:** Laravel, PHP, MySQL, Tailwind CSS  
 - 📫 **تواصل معايا:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmed-edress-627b56238)
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmededress111@gmail.com)  
+  <a href="https://www.linkedin.com/in/ahmed-edress-627b56238" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmededress111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>  
 
 ---
 
@@ -30,14 +31,14 @@
 ---
 
 ## 📂 **أهم مشاريعي**  
-🚀 **[invoices-project](https://github.com/ahmed-on391/invoices_project.git)**  
-🔹 نظام لإدارة الفواتير باستخدام Laravel 11، بواجهة سهلة وتفاعلية.  
+🔹 **[invoices-project](https://github.com/ahmed-on391/invoices_project.git)**  
+🚀 نظام متكامل لإدارة الفواتير باستخدام Laravel 11، بواجهة سهلة وتفاعلية.  
 
-🔗 **[contact-app](https://github.com/ahmed-on391/contact-app)**  
-🔹 تطبيق يساعدك على إدارة جهات الاتصال وتسجيل التذكيرات الخاصة بها.  
+🔹 **[contact-app](https://github.com/ahmed-on391/contact-app)**  
+📇 تطبيق يساعدك على إدارة جهات الاتصال وتنظيم بيانات العملاء بكفاءة.  
 
-✅ **[approval-chain-system](https://github.com/ahmed-on391/approval-chain-system)**  
-🔹 نظام يساعد في تنظيم عمليات الموافقة داخل المؤسسات بطريقة فعالة.  
+🔹 **[approval-chain-system](https://github.com/ahmed-on391/approval-chain-system)**  
+✅ نظام يسهل عمليات الموافقة داخل المؤسسات بطريقة سلسة ومنظمة.  
 
 ---
 
@@ -50,4 +51,4 @@
 
 ---
 
-💡 **"أسعى دائمًا لتطوير نفسي ومشاركة المعرفة مع الآخرين!"**  
+💡 **"أسعى دائمًا لتطوير نفسي ومشاركة المعرفة مع الآخرين!"** 🚀🔥

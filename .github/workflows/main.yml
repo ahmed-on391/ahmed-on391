@@ -1,8 +1,8 @@
-name: Update README with GitHub Stats
+name: Update README
 
 on:
   schedule:
-    - cron: "0 * * * *"  # تحديث كل ساعة
+    - cron: "0 0 * * *"  # تحديث كل يوم عند منتصف الليل
   workflow_dispatch:
 
 jobs:
@@ -10,5 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: anuraghazra/github-readme-stats@v1
-      - run: echo "README updated"
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@v1
+        with:
+          username: ahmed-on391
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Updated README with GitHub Stats" || echo "No changes to commit"
+          git push

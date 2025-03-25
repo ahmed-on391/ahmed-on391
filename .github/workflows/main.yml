@@ -11,8 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@latest
-
+        uses: anuraghazra/github-readme-stats@v2.1.1
         with:
           username: ahmed-on391
       - name: Commit and push if changed

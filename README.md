@@ -1,9 +1,7 @@
 <h1 align="center">👋 أهلاً بيك، أنا أحمد إدريس</h1>  
 <h3 align="center">👨‍💻 مطور Back-End متخصص في Laravel وPHP</h3>  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-on391&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>  
+ 
 
 ---
 

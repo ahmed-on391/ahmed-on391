@@ -1,27 +1,7 @@
-name: Update README
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # تحديث كل يوم عند منتصف الليل
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4  # استخدم أحدث إصدار
-
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@latest
-        with:
-          username: ahmed-on391
-          cache_seconds: 7200  # يمنع GitHub من حظر الطلبات بسبب كثرتها
-
-      - name: Commit and Push if changed
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add README.md
-          git diff --cached --quiet || git commit -m "Updated README with GitHub Stats"
-          git push
+- name: Commit and Push if changed
+  run: |
+    git config --global user.name "github-actions"
+    git config --global user.email "github-actions@github.com"
+    git add README.md
+    git commit -m "Updated README with GitHub Stats" || echo "No changes to commit"
+    git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/ahmed-on391/ahmed-on391.git

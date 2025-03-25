@@ -9,15 +9,19 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v4  # استخدم أحدث إصدار
+
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@v2.1.1
+        uses: anuraghazra/github-readme-stats@latest
         with:
           username: ahmed-on391
-      - name: Commit and push if changed
+          cache_seconds: 7200  # يمنع GitHub من حظر الطلبات بسبب كثرتها
+
+      - name: Commit and Push if changed
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Updated README with GitHub Stats" || echo "No changes to commit"
+          git diff --cached --quiet || git commit -m "Updated README with GitHub Stats"
           git push

@@ -32,7 +32,7 @@
 ---
 
 ## 📂 **أهم مشاريعي**  
-🚀 **[invoices-project](https://github.com/ahmed-on391/invoices-project)**  
+🚀 **[invoices-project](https://github.com/ahmed-on391/invoices_project.git)**  
 🔹 نظام لإدارة الفواتير باستخدام Laravel 11، بواجهة سهلة وتفاعلية.  
 
 🔗 **[contact-app](https://github.com/ahmed-on391/contact-app)**  

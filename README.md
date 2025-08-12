@@ -16,7 +16,7 @@
 
 ## 🚀 المهارات
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,git,github" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,git,github&theme=dark&perline=6" alt="skills" />
 </p>
 
 ---

@@ -1,54 +1,48 @@
-<h1 align="center">👋 أهلاً بيك، أنا أحمد إدريس</h1>  
-<h3 align="center">👨‍💻 مطور Back-End متخصص في Laravel و PHP</h3>  
+<h1 align="center">أهلاً 👋 أنا أحمد يس</h1>
 
----
-
-## 👨‍💻 **من أنا؟**  
-- 🏠 **الاسم:** أحمد إدريس  
-- 💼 **المهنة:** مطور **Back-End** متخصص في Laravel و PHP  
-- 🚀 **الشغف:** بناء تطبيقات ويب قوية وعالية الأداء  
-- 🌱 **أتعلم حالياً:** Problem Solving, DevOps, Testing  
-- 💬 **اسألني عن:** Laravel, PHP, MySQL, Tailwind CSS  
-- 📫 **تواصل معايا:**  
-  <a href="https://www.linkedin.com/in/ahmed-edress-627b56238" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmededress111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>  
-
----
-
-## 🔧 **التقنيات اللي بشتغل بيها**  
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>  
+  <b>مطور ويب مبتدئ (Full Stack Laravel Developer) من مصر 🇪🇬</b><br>
+  أتعلم تطوير الويب باستخدام <b>PHP وLaravel</b> وأسعى لتطوير مهاراتي وبدء مسيرتي المهنية في البرمجة.<br>
+</p>
 
 ---
 
-## 📂 **أهم مشاريعي**  
-🔹 **[invoices-project](https://github.com/ahmed-on391/invoices_project.git)**  
-🚀 نظام متكامل لإدارة الفواتير باستخدام Laravel 11، بواجهة سهلة وتفاعلية.  
+## 👨‍💻 نبذة عني
 
-🔹 **[contact-app](https://github.com/ahmed-on391/contact-app)**  
-📇 تطبيق يساعدك على إدارة جهات الاتصال وتنظيم بيانات العملاء بكفاءة.  
-
-🔹 **[approval-chain-system](https://github.com/ahmed-on391/approval-chain-system)**  
-✅ نظام يسهل عمليات الموافقة داخل المؤسسات بطريقة سلسة ومنظمة.  
+- 💻 مطور باك اند PHP/Laravel
+- 🏡 من مصر
+- 📚 أتعلم وأطور نفسي في مجال تطوير الويب
+- 🌱 حالياً أطور مهاراتي في Laravel وMySQL وGit
 
 ---
 
-## 📊 **إحصائياتي على GitHub**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-on391&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-on391&theme=radical" />
-</p>  
+## 🛠️ المهارات والتقنيات
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-💡 **"أسعى دائمًا لتطوير نفسي ومشاركة المعرفة مع الآخرين!"** 🚀🔥
+## 📂 مشاريعي
+
+- **نظام إدارة فواتير** (Laravel)  
+  <sub>نفذته من كورس المهندس سمير جمال</sub>
+
+- **تطبيق Contact-App** (Laravel)
+
+---
+
+## 📫 تواصل معي
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-edress-627b56238)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-on391)
+
+---
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/76587268?v=4" width="120" style="border-radius: 50%;" alt="Ahmed Edress's GitHub avatar"/>
+</div>

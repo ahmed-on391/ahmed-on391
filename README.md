@@ -1,24 +1,43 @@
-# Hi there, I'm Ahmed! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app" />
+</div>
 
-### 🚀 Full-Stack Developer | React & Node.js Enthusiast
-Welcome to my GitHub! I'm a developer who loves building functional and clean web applications. You can see my progress through the repositories below.
-
-### 🛠 Tech Stack
-- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap.
-- **Backend:** Node.js, Express.
-- **Tools:** Git, GitHub, VS Code.
-
-### 📂 Featured Projects
-- **[Weather App](https://github.com):** A real-time weather tracking application.
-- **[React-Project](https://github.com):** Showcasing my journey with React components and state management.
-
-### 📊 My GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app)
-![Top Langs](https://github-readme-stats.vercel.app)
-
-### 📫 How to reach me:
-- **LinkedIn:** [Your LinkedIn Link]
-- **Email:** [Your Email Address]
+<div align="center">
+  <h3> 👨‍💻 Full-Stack Web Developer </h3>
+  <p> Transforming ideas into reality through code. </p>
+</div>
 
 ---
-"Keep coding and keep learning!"
+
+### 🛠 Tech Stack & Tools
+<div align="center">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</div>
+
+---
+
+### 📊 Performance & Activities
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com" />
+</p>
+
+---
+
+### 📁 Top Projects
+| Project | Tech Stack | Live Demo |
+| :--- | :---: | :---: |
+| **Weather App** | React, API | [Link](https://github.com) |
+| **Portfolio** | HTML, CSS, JS | [Link](https://github.com) |
+
+---
+
+### 📫 Let's Connect
+<p align="left">
+<a href="https://linkedin.com" target="blank"><img src="https://img.shields.io" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io" /></a>
+</p>

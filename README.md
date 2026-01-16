@@ -1,61 +1,70 @@
-# 👨‍💻 Ahmed Edress
-### **Full Stack Laravel Developer | Crafting Scalable Web Solutions**
+<div align="center">
 
+# 🚀 Ahmed Edress
+### **Full Stack Architect | Laravel Specialist**
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Laravel+Developer;Building+Secure+E-Commerce;Cyber+Security+Enthusiast;Clean+Code+Practitioner)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+</div>
+
+---
+
+### 🛡️ About Me
+مبرمج متمكن في بيئة عمل **Laravel**، بشتغل بمبدأ الـ **Solid Principles** والـ **Clean Code**. مش بس ببني مشاريع، أنا بصمم أنظمة تعيش وتتحمل ضغط. 
+- 🎯 حالياً: بطور أنظمة **E-commerce** متكاملة وبدرس **React**.
+- 🔐 شغوف بـ **Web Security** وتقفيل الثغرات في الكود.
+
+---
+
+### 🛠️ Technical Stack
 <p align="left">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,tailwind,git,github,vscode,postman,linux&perline=6" />
+</a>
 </p>
 
 ---
 
-### 🖋️ Professional Bio
-A dedicated **Software Engineer** specializing in the **PHP/Laravel** ecosystem. I thrive on building complex back-end architectures, secure systems, and high-performance applications. With a solid foundation in **Laravel 11**, I focus on writing **Clean**, **Maintainable**, and **SOLID** code.
+### 🏆 Featured Engineering
+<div align="center">
 
-- 🔭 Currently refining: **Full Stack Mastery with React & Laravel**.
-- 🛡️ Passionate about: **Web Security & Performance Optimization**.
-- 🚀 Goal: Contributing to high-impact global projects.
-
----
-
-### 🛠️ Technical Arsenal
-| **Backend Mastery** | **Frontend & UI** | **DevOps & Tools** |
+| 🛒 E-Commerce Engine | 📑 Invoicing System | 🎓 Student Management |
 | :--- | :--- | :--- |
-| PHP 8.3 / Laravel 11 | JavaScript (ES6+) | Git / GitHub |
-| RESTful API Development | Tailwind CSS / Blade | Spatie (RBAC) |
-| Eloquent ORM / SQL | Responsive Design | Postman / Insomnia |
-| Design Patterns | Bootstrap | CI/CD Basics |
+| ![Ecom](https://img.shields.io/badge/Live-Project-green?style=flat-square) | ![Invoice](https://img.shields.io/badge/Secure-System-blue?style=flat-square) | ![SMS](https://img.shields.io/badge/Logic-Architecture-orange?style=flat-square) |
+| [View Code](https://github.com/ahmed-on391/E-commerce-Laravel-11) | [View Code](https://github.com/ahmed-on391/invoices_project) | [View Code](https://github.com/ahmed-on391/Student-Management-System) |
+
+</div>
 
 ---
 
-### 🚀 Featured Engineering Projects
-> **Note:** These projects demonstrate my ability to handle complex business logic and database structures.
+### 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-on391&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
 
-* **🛒 [E-Commerce Engine](https://github.com/ahmed-on391/E-commerce-Laravel-11)**
-    * *Core:* Product management, dynamic cart system, and secure checkout.
-    * *Tech:* Laravel 11, Tailwind, MySQL.
-* **📑 [Invoices Management System](https://github.com/ahmed-on391/invoices_project)**
-    * *Core:* Advanced permissions, reporting, and automated billing logic.
-    * *Tech:* Laravel, Spatie RBAC.
-* **🎓 [Student Management System](https://github.com/ahmed-on391/Student-Management-System)**
-    * *Core:* Complex database relationships and academic tracking.
-
----
-
-### 📊 GitHub Activity Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-on391&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-on391&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" height="170">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-on391&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-on391&layout=compact&theme=tokyonight&hide_border=true" height="150">
 </p>
 
 ---
 
-### 📫 Let's Build Something Great
-<p align="left">
-  <a href="mailto:ahmed.edress.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmed-edress"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ahmed-on391"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+### 📫 Connect with Me
+<p align="center">
+<a href="mailto:ahmed.edress.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/ahmed-on391"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/mayhemantidote/mayhemantidote/master/assets/bottom_thin_wave.png" width="100%">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=00B4DB&bg_color=0D1117" width="100%" />
+</p>

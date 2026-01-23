@@ -59,7 +59,7 @@
 | 🛒 **[E-Commerce Platform](https://github.com/ahmed-on391/E-ecommerce_project)** | Full-featured online store with product management, order tracking, and customer categorization | Laravel, Tailwind CSS, MySQL |
 | 📄 **[Invoice Management System](https://github.com/ahmed-on391/invoices_project)** | Comprehensive billing solution with multi-language support, role-based access control, and analytics dashboard | Laravel 11, JavaScript, RBAC |
 | 📇 **[Contact Management App](https://github.com/ahmed-on391/contact-app)** | Smart contact book with company tracking, birthday reminders, and task management | Laravel, Blade, MySQL |
-| 🎓 **[Student Management System](https://github.com/ahmed-on391/Student-Management-System)** | Academic tracking platform for managing students, courses, and grades | Laravel, PHP, Database Design |
+
 
 </div>
 
